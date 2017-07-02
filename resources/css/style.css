@@ -3,5 +3,9 @@ html {
   text-align: center;
 }
 div.header {
-  background-image: url("../resources/images/the-flatiron-building.png");
+  background-image: url("../images/building.png");
+  color: white;
+}
+a {
+  color: white;
 }
